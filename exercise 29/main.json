@@ -1,0 +1,10 @@
+{
+    " id": 2, 
+    "name": "jaamac",
+    "city": "adado",
+    "schoo": "imam-malik",
+    "orders"[
+        {"id": 1, "product": "laptop","quantity": 1},
+        {"id": 3, "product": "book": "quantity": 8}
+]
+}
